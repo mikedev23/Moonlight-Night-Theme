@@ -1,0 +1,22 @@
+{
+  "name": "moonlight-night-theme",
+  "publisher": "mikedev23",
+  "displayName": "Moonlight Night",
+  "description": "🌉 A dark theme combo inspired by tokyo night and kay",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moonlight Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moonlight Night-color-theme.json"
+      }
+    ]
+  }
+}
