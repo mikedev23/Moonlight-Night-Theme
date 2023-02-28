@@ -1,16 +1,49 @@
-# moonlight-night-theme README
+<h1 align="center">
+  🌉 Moonlight Night 🌉
+</h1>
 
-## Working with Markdown
+<p align="center">
+  A darker theme for late-night coding based on Tokyo Night and Kay!
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+&nbsp;
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<h2 align="center">
+Editor Preview
+</h2>
 
-## For more information
+<div align="center">
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Editor Preview](https://raw.githubusercontent.com/mikedev23/Moonlight-Night-Theme/main/images/editor-preview.png)
 
-**Enjoy!**
+</div>
+&nbsp;
+<h2 align="center">
+Credits
+</h2>
+
+<p align="center">
+The color palette was customized from Tokyo Night and modified. Token colors were inspired by Kube who developed Kay Theme with some tweaks to adjust for my preference.
+</p>
+
+&nbsp;
+
+- [Gif](https://steamcommunity.com/sharedfiles/filedetails/?id=2798072874) used.
+- [Font](https://github.com/rubjo/victor-mono) used -> [Victor Mono](https://rubjo.github.io/victor-mono/)
+- [Kube](https://github.com/kube) & [Kay Theme](https://github.com/kube/vscode-kay-theme) inspired.
+- [Enkia](https://github.com/enkia) & [Tokyo Night Theme](https://github.com/enkia/tokyo-night-vscode-theme) inspired.
+
+&nbsp;
+
+<div align="center">
+
+`NOTE: I will continue to update the theme as I progress on my coding journey`
+
+</div>
+&nbsp;
+
+<h2 align="center">
+
+Enjoy😎
+
+</h2>
