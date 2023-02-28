@@ -4,11 +4,31 @@
   "displayName": "Moonlight Night",
   "description": "🌉 A dark theme combo inspired by tokyo night and kay",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.75.0"
+  "author": {
+    "name": "Mikedev23"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikedev23/Moonlight-Night-Theme"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "icon": "images/drive-2.gif",
+  "homepage": "https://github.com/mikedev23",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "vs code",
+    "kay",
+    "github",
+    "night",
+    "tokyo",
+    "moon"
   ],
   "contributes": {
     "themes": [
