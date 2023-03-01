@@ -6,6 +6,14 @@
   A darker theme for late-night coding based on Tokyo Night and Kay!
 </p>
 
+<div align="center">
+
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mikedev23.moonlight-night-theme?color=informational&style=flat)](https://marketplace.visualstudio.com/items?itemName=Mikedev23.moonlight-night-theme)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Mikedev23.moonlight-night-theme?color=darkviolet&style=flat)](https://marketplace.visualstudio.com/items?itemName=Mikedev23.moonlight-night-theme)
+[![GitHub](https://img.shields.io/github/license/mikedev23/moonlight-night-theme?color=forestgreen&style=flat)](https://github.com/mikedev23/Moonlight-Night-Theme/blob/main/LICENSE.txt)
+
+</div>
+
 &nbsp;
 
 <h2 align="center">
@@ -37,13 +45,16 @@ The color palette was customized from Tokyo Night and modified. Token colors wer
 
 <div align="center">
 
-`NOTE: I will continue to update the theme as I progress on my coding journey`
+`NOTE: I will continue to update this theme as I progress on my coding journey`
 
-</div>
 &nbsp;
 
-<h2 align="center">
+[![Twitter Follow](https://img.shields.io/twitter/follow/michaelh1277?color=informational&label=Follow%20%40mikedev23&logo=twitter&style=for-the-badge)](https://twitter.com/michaelh1277)
+
+</div>
+
+<h3 align="center">
 
 Enjoy😎
 
-</h2>
+</h3>
