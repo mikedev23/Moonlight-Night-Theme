@@ -116,7 +116,7 @@
 		"editor.inactiveSelectionBackground": "#0e71eb33",
 		"editor.inlineValuesBackground": "#ffc80033",
 		"editor.inlineValuesForeground": "#989eb380",
-		"editor.lineHighlightBackground": "#01060e",
+		"editor.lineHighlightBackground": "#f7f7f511",
 		"editor.lineHighlightBorder": "#1e232b",
 		"editor.linkedEditingBackground": "#ff00004d",
 		"editor.rangeHighlightBackground": "#000000f5",
@@ -240,13 +240,13 @@
 		"editorStickyScrollHover.background": "#2c4a9122",
 		"editorSuggestWidget.background": "#0a0e14",
 		"editorSuggestWidget.border": "#43444d",
-		"editorSuggestWidget.focusHighlightForeground": "#3eadcf",
+		"editorSuggestWidget.focusHighlightForeground": "#cca700cc",
 		"editorSuggestWidget.foreground": "#9898a6",
 		"editorSuggestWidget.highlightForeground": "#d19a6699",
-		"editorSuggestWidget.selectedBackground": "#01060e",
+		"editorSuggestWidget.selectedBackground": "#10389426",
 		"editorSuggestWidget.selectedForeground": "#b6bac8dd",
-		"editorSuggestWidget.selectedIconForeground": "#3eadcf",
-		"editorSuggestWidgetStatus.foreground": "#3eadcf",
+		"editorSuggestWidget.selectedIconForeground": "#cca700cc",
+		"editorSuggestWidgetStatus.foreground": "#cca700",
 		"editorUnicodeHighlight.background": "#bd9b0326",
 		"editorUnicodeHighlight.border": "#bd9b03",
 		"editorUnnecessaryCode.border": "#00000000",
@@ -371,7 +371,7 @@
 		"menu.background": "#0b0e14",
 		"menu.border": "#30363d",
 		"menu.foreground": "#8b949edd",
-		"menu.selectionBackground": "#47526610",
+		"menu.selectionBackground": "#10389426",
 		"menu.selectionBorder": "#0e639c72",
 		"menu.selectionForeground": "#9898a6",
 		"menu.separatorBackground": "#0d1117",
@@ -519,13 +519,13 @@
 		"sideBar.border": "#30363d",
 		"sideBar.dropBackground": "#26448466",
 		"sideBar.foreground": "#9898a6bb",
-		"sideBarSectionHeader.background": "#01060e",
+		"sideBarSectionHeader.background": "#011627",
 		"sideBarSectionHeader.border": "#30363d",
 		"sideBarSectionHeader.foreground": "#626983",
 		"sideBarTitle.foreground": "#b6bac8bb",
 		"sideBySideEditor.horizontalBorder": "#30363d",
 		"sideBySideEditor.verticalBorder": "#30363d",
-		"statusBar.background": "#01060e",
+		"statusBar.background": "#011627",
 		"statusBar.border": "#20272c",
 		"statusBar.debuggingBackground": "#26785a44",
 		"statusBar.debuggingBorder": "#0e0e12",
@@ -653,7 +653,7 @@
 		"textLink.foreground": "#61bb72cc",
 		"textPreformat.foreground": "#ff8888df",
 		"textSeparator.foreground": "#575861",
-		"titleBar.activeBackground": "#01060e",
+		"titleBar.activeBackground": "#011627",
 		"titleBar.activeForeground": "#626983",
 		"titleBar.border": "#20272c",
 		"titleBar.inactiveBackground": "#01060e",
@@ -712,7 +712,7 @@
 				"invalid.deprecated"
 			],
 			"settings": {
-				"foreground": "#513D18",
+				"foreground": "#513D18"
 			}
 		},
 		{
@@ -720,7 +720,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FFFFFF",
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -1414,11 +1414,54 @@
 			"settings": {
 				"foreground": "#3A8CC7"
 			}
+		},
+		{
+			"scope": "variable.other.readwrite.js",
+			"settings": {
+				"foreground": "#BB6161"
+			}
+		},
+		{
+			"scope": [
+				"invalid.illegal"
+			],
+			"settings": {
+				"foreground": "#ABB2BE"
+			}
+		},
+		{
+			"scope": [
+				"meta.class.body",
+				"meta.method",
+				"meta.tag",
+				"none",
+				"punctuation.definition.array",
+				"punctuation.definition.function-parameters",
+				"punctuation.definition.method-parameters",
+				"punctuation.definition.parameters",
+				"punctuation.definition.separator",
+				"punctuation.section.class",
+				"punctuation.section.inner-class",
+				"punctuation.section.method",
+				"storage.modifier.import",
+				"storage.modifier.package",
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#ABB2BE"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#ABB2BE"
+			}
+		},
+		{
+			"scope": "variable.other.readwrite.js",
+			"settings": {
+				"foreground": "#ABB2BE"
+			}
 		}
-	],
-	"semanticTokenColors": {
-		"rules": {
-			"property.readonly": "#3A8CC7"
-		}
-	}
+	]
 }
